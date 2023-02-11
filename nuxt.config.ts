@@ -12,9 +12,12 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  // meta: {
-  //   title: "Template Website",
-  // },
+  components: {
+    dirs: [
+      '~/components',
+      '~/components/services'
+    ]
+  },
   build: {
     transpile: [
       '@fortawesome/fontawesome-svg-core',
