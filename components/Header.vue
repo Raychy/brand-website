@@ -102,7 +102,7 @@
                          </div>
                          <ul
                               class="flex items-center gap-5 pr-5 pl-5 lg:pl-5 lg:pr-0  ">
-                              <li>
+                              <!-- <li>
                                    <button type="button"
                                         class="flex h-5 w-5 items-center text-white hover:text-blue "
                                         onclick="toggleDirection()">
@@ -127,8 +127,8 @@
                                                   stroke-linecap="round" stroke-linejoin="round"></path>
                                         </svg>
                                    </button>
-                              </li>
-                              <li>
+                              </li> -->
+                              <!-- <li>
                                    <button type="button"
                                         class="flex h-10 w-10 items-center justify-center rounded-full bg-gray-dark text-white hover:text-blue"
                                         onclick="toggleTheme()">
@@ -145,9 +145,9 @@
                                                   fill="currentColor"></path>
                                         </svg>
                                    </button>
-                              </li>
+                              </li> -->
                          </ul>
-                         <button type="button"
+                         <!-- <button type="button"
                               class="flex h-10 w-10 items-center justify-center rounded-full bg-blue lg:hidden"
                               onclick="toggleMenu()">
                               <svg width="22" height="18" viewBox="0 0 22 18" fill="none"
@@ -159,7 +159,7 @@
                                    <path d="M21 2C21 1.447 20.552 1 20 1H7C6.448 1 6 1.447 6 2C6 2.553 6.448 3 7 3H20C20.552 3 21 2.553 21 2Z"
                                         fill="currentColor"></path>
                               </svg>
-                         </button>
+                         </button> -->
                     </div>
                </div>
           </div>
